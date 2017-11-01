@@ -200,7 +200,7 @@
          "items": [
             {
               "type": "label",
-              "text": "Place Holder",
+              "text": "Place Holders",
               "href": {
                 "url": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/home.json",
                 "transition": "modal"
