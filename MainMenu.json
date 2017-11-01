@@ -188,12 +188,12 @@
               {
                 "type": "label",
                 "class": "bold",
-                "text": "Medication"
+                "text": "Species"
               },
               {
                 "type": "label",
                 "class": "normal",
-                "text": "Medication"
+                "text": "Select Species"
               }
             ]
           },
