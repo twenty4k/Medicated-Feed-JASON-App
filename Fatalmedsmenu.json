@@ -1,0 +1,136 @@
+{
+  "$jason": {
+    "head": {
+      "title": "Fatal Medication & Species Combination",
+      "offline": "true",
+      "actions": {
+        "$load": {
+          "type": "$network.request",
+          "options": {
+            "url": "https://raw.githubusercontent.com/twenty4k/Feed-Application/master/fatalmeds.json"
+          },
+          "success": {
+            "type": "$render"
+          }
+        }
+      },
+      "templates": {
+        "body": {
+          "style": {
+            "border": "none"
+          },
+          "header": {
+            "title": "Fatal Medication & Species Combination",
+            "menu": {
+              "text": "21 CFR §558.515",
+              "href": {
+                "url": "http://api.fdsys.gov/link?collection=cfr&titlenum=21&partnum=558&link-type=xml",
+                "view": "web"
+              }
+            }
+          },
+          "sections": [
+            {
+              "header": {
+                "type": "label",
+                "text": "These combinations may be fatal if consumed",
+                "style": {
+                  "background": "#f5f5f5",
+                  "padding": "20"
+                }
+              },
+              "items": {
+                "{{#each $jason}}": {
+                  "type": "vertical",
+                  "style": {
+                    "padding": "5",
+                    "spacing": "5"
+                  },
+                  "components": [
+                    {
+                      "type": "label",
+                      "style": {
+                        "size": "14"
+                      },
+                      "text": "Species: {{Species}}"
+                    },
+                    {
+                      "type": "label",
+                      "style": {
+                        "size": "14"
+                      },
+                      "text": "Medication: {{Medication}}"
+                    },
+                    {
+                      "type": "label",
+                      "style": {
+                        "size": "14"
+                      },
+                      "text": "Condition: {{Condition}}"
+                    },
+                    {
+                      "type": "label",
+                      "style": {
+                        "size": "14"
+                      },
+                      "text": "Medication: {{Medication2}}"
+                    },
+                    {
+                      "type": "label",
+                      "style": {
+                        "size": "14"
+                      },
+                      "text": "Condition: {{Condition2}}"
+                    },
+                    {
+                      "type": "label",
+                      "style": {
+                        "size": "14"
+                      },
+                      "text": "Medication: {{Medication3}}"
+                    },
+                    {
+                      "type": "label",
+                      "style": {
+                        "size": "14"
+                      },
+                      "text": "Condition: {{Condition3}}"
+                    },
+                    {
+                      "type": "label",
+                      "style": {
+                        "size": "14"
+                      },
+                      "text": "Medication: {{Medication4}}"
+                    },
+                    {
+                      "type": "label",
+                      "style": {
+                        "size": "14"
+                      },
+                      "text": "Condition: {{Condition4}}"
+                    },
+                    
+                    {
+                      "type": "space",
+                      "style": {
+                        "height": "50"
+                      }
+                    }
+                  ],
+                  "action": {
+                    "type": "$widget.banner",
+                    "options": {
+                      "title": "You selected",
+                      "description": "{{title}}"
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}
