@@ -201,9 +201,10 @@
             {
               "type": "label",
               "text": "Fatal Medication & Species Combination",
+              "class": "bold padded",
               "href": {
-                "url": "https://raw.githubusercontent.com/twenty4k/Medicated-Feed-JASON-App/master/Fatalmedsmenu.json",
-                "transition": "modal"
+                "url": "https://raw.githubusercontent.com/twenty4k/Medicated-Feed-JASON-App/master/Fatalmedsmenu.json"
+                
               }
             },
             {
