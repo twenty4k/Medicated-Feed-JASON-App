@@ -1,40 +1,33 @@
 [
     {
       "Species" : "Cattle",
-      "Medication" : "558.311 Lasalocid",
-      "Condition" : "Excess lasalocid concentration could be fatal",
-      "Medication" : "558.355 Monensin",
-      "Condition" : "Feeding undiluted or mixing errors resulting in high concentrations of monensin has been fatal to cattle. Ingestion by cattle of monensin at levels of 600 milligrams per head per day and higher has been fatal."
-      },
+      "Medication1" : "558.311 Lasalocid - Excess lasalocid concentration could be fatal",
+      "Medication2" : "558.355 Monensin - Feeding undiluted or mixing errors resulting in high concentrations of monensin has been fatal to cattle. Ingestion by cattle of monensin at levels of 600 milligrams per head per day and higher has been fatal."
     {
       "Species" : "Sheep",
-      "Medication" : "558.311 Lasalocid",
-      "Condition" : "Excess lasalocid concentration could be fatal"
-      },
+      "Medication1" : "558.311 Lasalocid - Excess lasalocid concentration could be fatal"
+            },
     {
       "Species" : "Horses",
-      "Medication" : "558.311 Lasalocid",
-      "Condition" : "Excess lasalocid concentration could be fatal",
-      "Medication" : "558.355 Monensin",
-      "Condition" : "Ingestion of monensin by horses has been fatal",
-	"Medication" : "558.363 Narasin",
-      "Condition" : "Ingestion of narasin by these species has been fatal",
-      "Medication" : "558.550 Salinomycin",
-      "Condition" : "May be fatal"
+      "Medication1" : "558.311 Lasalocid - Excess lasalocid concentration could be fatal",
+      "Medication2" : "558.550 Salinomycin - May be fatal",
+      "Medication3" : "558.355 Monensin - Ingestion of monensin by horses has been fatal",
+      "Medication4" : "558.363 Narasin - Ingestion of narasin by these species has been fatal"
+	
       },
     {
       "Species" : "Turkey",
-      "Medication" : "558.363 Narasin",
-      "Condition" : "Ingestion of narasin by these species has been fatal",
-      "Medication" : "558.550 Salinomycin",
-      "Condition" : "May be fatal"},
+      "Medication1" : "558.363 Narasin - Ingestion of narasin by these species has been fatal",
+      
+      "Medication2" : "558.550 Salinomycin - May be fatal"
+      
     {
       "Species" : "Goats",
-      "Medication" : "558.355 Monensin",
-      "Condition" : "Feeding undiluted or mixing errors resulting in high concentrations of monensin could be fatal to goats"},
+      "Medication1" : "558.355 Monensin - Feeding undiluted or mixing errors resulting in high concentrations of monensin could be fatal to goats"
+      },
 {
       "Species" : "Guinea Fowl",
-      "Medication" : "558.355 Monensin",
-      "Condition" : "Ingestion of monensin by guinea fowl has been fatal",
+      "Medication1" : "558.355 Monensin - Ingestion of monensin by guinea fowl has been fatal",
+      
       }
   ]
