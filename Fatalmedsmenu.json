@@ -22,7 +22,7 @@
           "header": {
             "title": "Fatal Medication & Species Combination",
             "menu": {
-              "text": "21 CFR §558.515",
+              "text": "21 CFR ï¿½558.515",
               "href": {
                 "url": "http://api.fdsys.gov/link?collection=cfr&titlenum=21&partnum=558&link-type=xml",
                 "view": "web"
@@ -68,49 +68,6 @@
                       },
                       "text": "Condition: {{Condition}}"
                     },
-                    {
-                      "type": "label",
-                      "style": {
-                        "size": "14"
-                      },
-                      "text": "Medication: {{Medication2}}"
-                    },
-                    {
-                      "type": "label",
-                      "style": {
-                        "size": "14"
-                      },
-                      "text": "Condition: {{Condition2}}"
-                    },
-                    {
-                      "type": "label",
-                      "style": {
-                        "size": "14"
-                      },
-                      "text": "Medication: {{Medication3}}"
-                    },
-                    {
-                      "type": "label",
-                      "style": {
-                        "size": "14"
-                      },
-                      "text": "Condition: {{Condition3}}"
-                    },
-                    {
-                      "type": "label",
-                      "style": {
-                        "size": "14"
-                      },
-                      "text": "Medication: {{Medication4}}"
-                    },
-                    {
-                      "type": "label",
-                      "style": {
-                        "size": "14"
-                      },
-                      "text": "Condition: {{Condition4}}"
-                    },
-                    
                     {
                       "type": "space",
                       "style": {
