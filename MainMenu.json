@@ -200,9 +200,9 @@
          "items": [
             {
               "type": "label",
-              "text": "Place Holders",
+              "text": "Fatal Medication & Species Combination",
               "href": {
-                "url": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/home.json",
+                "url": "https://raw.githubusercontent.com/twenty4k/Medicated-Feed-JASON-App/master/Fatalmedsmenu.json",
                 "transition": "modal"
               }
             },
