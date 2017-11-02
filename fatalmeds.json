@@ -3,7 +3,7 @@
       "Species" : "Cattle",
       "Medication1" : "558.311 Lasalocid - Excess lasalocid concentration could be fatal",
       "Medication2" : "558.355 Monensin - Feeding undiluted or mixing errors resulting in high concentrations of monensin has been fatal to cattle. Ingestion by cattle of monensin at levels of 600 milligrams per head per day and higher has been fatal."
-    {
+    } {
       "Species" : "Sheep",
       "Medication1" : "558.311 Lasalocid - Excess lasalocid concentration could be fatal"
             },
