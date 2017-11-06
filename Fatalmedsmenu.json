@@ -61,7 +61,6 @@
                       },
                       "text": "Medication: {{Medication}}"
                     },
-                    
                     {
                       "type": "space",
                       "style": {
