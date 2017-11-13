@@ -188,12 +188,12 @@
               {
                 "type": "label",
                 "class": "bold",
-                "text": "Fatal Medication"
+                "text": "Species"
               },
               {
                 "type": "label",
                 "class": "normal",
-                "text": "Species Combination"
+                "text": "Select Species"
               }
             ]
           },
