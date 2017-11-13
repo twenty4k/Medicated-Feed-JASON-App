@@ -206,7 +206,27 @@
                 "url": "https://raw.githubusercontent.com/twenty4k/Medicated-Feed-JASON-App/master/Fatalmedsmenu.json"
                 
               }
+            }],
+           {
+          "header": {
+            "type": "vertical",
+            "style": {
+              "background": "#ebebeb"
             },
+            "components": [
+              {
+                "type": "label",
+                "class": "bold",
+                "text": "Species"
+              },
+              {
+                "type": "label",
+                "class": "normal",
+                "text": "Select Species"
+              }
+            ]
+          },
+         "items": [
             {
               "type": "label",
               "text": "558.55 Amprolium.",
