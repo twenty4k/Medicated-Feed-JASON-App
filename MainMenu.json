@@ -188,6 +188,36 @@
               {
                 "type": "label",
                 "class": "bold",
+                "text": "Fatal Medication"
+              },
+              {
+                "type": "label",
+                "class": "normal",
+                "text": "Species Combination"
+              }
+            ]
+          },
+          "items": [
+            {
+              "type": "label",
+              "text": "Fatal Medication & Species Combination",
+              "class": "bold padded",
+              "href": {
+                "url": "https://raw.githubusercontent.com/twenty4k/Medicated-Feed-JASON-App/master/Fatalmedsmenu.json"
+              }
+            }
+          ]
+        },
+        {
+          "header": {
+            "type": "vertical",
+            "style": {
+              "background": "#ebebeb"
+            },
+            "components": [
+              {
+                "type": "label",
+                "class": "bold",
                 "text": "Species"
               },
               {
@@ -200,513 +230,483 @@
           "items": [
             {
               "type": "label",
-              "text": "Fatal Medication & Species Combination",
+              "text": "558.55 Amprolium.",
               "class": "bold padded",
               "href": {
-                "url": "https://raw.githubusercontent.com/twenty4k/Medicated-Feed-JASON-App/master/Fatalmedsmenu.json"
+                "url": "https://www.jasonbase.com/things/B8LP.json"
               }
             },
             {
-              "header": {
-                "type": "vertical",
-                "style": {
-                  "background": "#ebebeb"
-                },
-                "components": [
-                  {
-                    "type": "label",
-                    "class": "bold",
-                    "text": "Species"
-                  },
-                  {
-                    "type": "label",
-                    "class": "normal",
-                    "text": "Select Species"
-                  }
-                ]
-              },
-              "items": [
-                {
-                  "type": "label",
-                  "text": "558.55 Amprolium.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.58 Amprolium and ethopabate.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.59 Apramycin.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.68 Avilamycin.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.76 Bacitracin methylenedisalicylate.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.78 Bacitracin zinc.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.95 Bambermycins.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.115 Carbadox.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.128 Chlortetracycline.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.140 Chlortetracycline and sulfamethazine.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.175 Clopidol.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.185 Coumaphos.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.195 Decoquinate.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.198 Diclazuril.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.205 Dichlorvos.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.235 Efrotomycin.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.248 Erythromycin.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.254 Famphur.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.258 Fenbendazole.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.261 Florfenicol.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.265 Halofuginone hydrobromide.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.274 Hygromycin B.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.295 Iodinated casein.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.300 Ivermectin.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.305 Laidlomycin.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.311 Lasalocid.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.325 Lincomycin.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.340 Maduramicin.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.342 Melengestrol.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.348 Mibolerone.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.355 Monensin.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.360 Morantel tartrate.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.363 Narasin.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.364 Neomycin sulfate.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.365 Nequinate.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.366 Nicarbazin.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.415 Novobiocin.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.430 Nystatin.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.450 Oxytetracycline.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.455 Oxytetracycline and neomycin.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.464 Poloxalene.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.465 Poloxalene free-choice liquid Type C feed.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.485 Pyrantel.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.500 Ractopamine.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.515 Robenidine.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.550 Salinomycin.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.555 Semduramicin.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.575 Sulfadimethoxine and ormetoprim.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.582 Sulfamerazine.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.586 Sulfaquinoxaline.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.600 Thiabendazole.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.612 Tiamulin.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.618 Tilmicosin.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.625 Tylosin.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.630 Tylosin and sulfamethazine.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.633 Tylvalosin.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.635 Virginiamycin.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.665 Zilpaterol.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "558.680 Zoalene.",
-                  "class": "bold padded",
-                  "href": {
-                    "url": "https://www.jasonbase.com/things/B8LP.json"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "Placeholder",
-                  "href": {
-                    "url": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/home.json",
-                    "transition": "modal"
-                  }
-                }
-              ]
+              "type": "label",
+              "text": "558.58 Amprolium and ethopabate.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.59 Apramycin.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.68 Avilamycin.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.76 Bacitracin methylenedisalicylate.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.78 Bacitracin zinc.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.95 Bambermycins.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.115 Carbadox.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.128 Chlortetracycline.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.140 Chlortetracycline and sulfamethazine.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.175 Clopidol.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.185 Coumaphos.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.195 Decoquinate.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.198 Diclazuril.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.205 Dichlorvos.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.235 Efrotomycin.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.248 Erythromycin.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.254 Famphur.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.258 Fenbendazole.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.261 Florfenicol.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.265 Halofuginone hydrobromide.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.274 Hygromycin B.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.295 Iodinated casein.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.300 Ivermectin.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.305 Laidlomycin.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.311 Lasalocid.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.325 Lincomycin.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.340 Maduramicin.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.342 Melengestrol.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.348 Mibolerone.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.355 Monensin.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.360 Morantel tartrate.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.363 Narasin.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.364 Neomycin sulfate.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.365 Nequinate.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.366 Nicarbazin.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.415 Novobiocin.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.430 Nystatin.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.450 Oxytetracycline.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.455 Oxytetracycline and neomycin.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.464 Poloxalene.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.465 Poloxalene free-choice liquid Type C feed.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.485 Pyrantel.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.500 Ractopamine.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.515 Robenidine.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.550 Salinomycin.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.555 Semduramicin.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.575 Sulfadimethoxine and ormetoprim.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.582 Sulfamerazine.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.586 Sulfaquinoxaline.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.600 Thiabendazole.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.612 Tiamulin.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.618 Tilmicosin.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.625 Tylosin.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.630 Tylosin and sulfamethazine.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.633 Tylvalosin.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.635 Virginiamycin.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.665 Zilpaterol.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "558.680 Zoalene.",
+              "class": "bold padded",
+              "href": {
+                "url": "https://www.jasonbase.com/things/B8LP.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "Placeholder",
+              "href": {
+                "url": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/home.json",
+                "transition": "modal"
+              }
             }
           ]
         }
