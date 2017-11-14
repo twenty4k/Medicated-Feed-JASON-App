@@ -59,7 +59,7 @@
                       "style": {
                         "size": "14"
                       },
-                      "text": "Medication: {{$root.Medication.length}}"
+                      "text": "Medication: {{Medication.length}}"
                     },
                     
                     {
