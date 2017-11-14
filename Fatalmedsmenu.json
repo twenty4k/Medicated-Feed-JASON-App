@@ -40,7 +40,7 @@
                 }
               },
               "items": {
-                "{{#each $jason.result}}": {
+                "{{#each $jason}}": {
                   "type": "vertical",
                   "style": {
                     "padding": "5",
@@ -59,7 +59,7 @@
                       "style": {
                         "size": "14"
                       },
-                      "text": "Medication: {{Medication}}"
+                      "text": "Medication: {{this}}"
                     },
                     
                     {
