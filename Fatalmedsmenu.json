@@ -52,14 +52,14 @@
                       "style": {
                         "size": "14"
                       },
-                      "text": "Species: {{Species}}"
+                      "text": "{{Species}}"
                     },
                     {
                       "type": "label",
                       "style": {
                         "size": "14"
                       },
-                      "text": "Medication: {{Medication}}"
+                      "text": "{{Medication}}"
                     },
                     {
                       "type": "space",
