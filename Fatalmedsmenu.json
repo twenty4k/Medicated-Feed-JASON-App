@@ -59,7 +59,7 @@
                       "style": {
                         "size": "14"
                       },
-                      "text": "Medication: {{this}}"
+                      "text": "Medication: {{Medication}}"
                     },
                     
                     {
