@@ -40,7 +40,7 @@
                 }
               },
               "items": {
-                "{{#each $jason.result}}": {
+                "{{#each $jason}}": {
                   "type": "vertical",
                   "style": {
                     "padding": "5",
