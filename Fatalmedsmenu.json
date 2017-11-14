@@ -61,27 +61,7 @@
                       },
                       "text": "Medication: {{Medication}}"
                     },
-                    {
-                      "type": "label",
-                      "style": {
-                        "size": "14"
-                      },
-                      "text": "Medication: {{Medication}}"
-                    },
-                    {
-                      "type": "label",
-                      "style": {
-                        "size": "14"
-                      },
-                      "text": "Medication: {{Medication}}"
-                    },
-                    {
-                      "type": "label",
-                      "style": {
-                        "size": "14"
-                      },
-                      "text": "Medication: {{Medication}}"
-                    },
+                  
                     {
                       "type": "space",
                       "style": {
