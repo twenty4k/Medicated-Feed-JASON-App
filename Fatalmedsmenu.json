@@ -52,14 +52,14 @@
                       "style": {
                         "size": "14"
                       },
-                      "text": "{{Species}}"
+                      "text": "Species: {{Species}}"
                     },
                     {
                       "type": "label",
                       "style": {
                         "size": "14"
                       },
-                      "text": "{{Medication}}"
+                      "text": "Medication: {{Medication}}"
                     },
                     {
                       "type": "space",
@@ -68,13 +68,7 @@
                       }
                     }
                   ],
-                  "action": {
-                    "type": "$widget.banner",
-                    "options": {
-                      "title": "You selected",
-                      "description": "{{title}}"
-                    }
-                  }
+                  
                 }
               }
             }
