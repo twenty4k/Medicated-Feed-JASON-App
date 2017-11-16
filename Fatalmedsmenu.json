@@ -22,7 +22,7 @@
           "header": {
             "title": "Fatal Medication & Species Combination",
             "menu": {
-              "text": "21 CFR 558.515",
+              "text": "21 CFR 558",
               "href": {
                 "url": "http://api.fdsys.gov/link?collection=cfr&titlenum=21&partnum=558&link-type=xml",
                 "view": "web"
