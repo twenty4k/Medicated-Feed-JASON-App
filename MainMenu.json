@@ -190,14 +190,18 @@
                 "class": "bold",
                 "text": "Fatal Medications for Species"
               },
-              
+              {
+                "type": "label",
+                "class": "normal",
+                "text": "Cattle, Horses, Turkey, Goats, Guinea Fowl "
+              }
             ]
           },
           "items": [
             {
               "type": "label",
               "text": "Fatal Medication & Species Combination",
-              "class": "bold padded",
+              "class": "normal",
               "href": {
                 "url": "https://raw.githubusercontent.com/twenty4k/Medicated-Feed-JASON-App/master/Fatalmedsmenu.json"
               }
