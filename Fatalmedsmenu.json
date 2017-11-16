@@ -61,17 +61,7 @@
                       },
                       "text": "Medication: {{Medication}}"
                     },
-                  {
-                      "type": "label",
-                      "style": {
-                        "size": "14"
-                      },
-                      "text": "Regulation",
-                      "href":{
-                        "url": "{{url}}"
-                        }
-                        
-                    },
+                 
                     {
                       "type": "space",
                       "style": {
