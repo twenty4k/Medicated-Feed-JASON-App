@@ -66,7 +66,7 @@
                       "style": {
                         "size": "14"
                       },
-                      "text": "Regulation: {{href}}"
+                      "text": "Regulation: {{url}}"
                     },
                     {
                       "type": "space",
