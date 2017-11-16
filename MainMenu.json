@@ -188,13 +188,9 @@
               {
                 "type": "label",
                 "class": "bold",
-                "text": "Species"
+                "text": "Fatal Medications for Species"
               },
-              {
-                "type": "label",
-                "class": "normal",
-                "text": "Select Species"
-              }
+              
             ]
           },
           "items": [
