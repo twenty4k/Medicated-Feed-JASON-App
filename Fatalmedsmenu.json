@@ -68,8 +68,8 @@
                       },
                       "text": "Regulation",
                       "href":{
-                        "url": "{{url}}",
-                        "view": "web"}
+                        "url": "{{url}}"
+                        }
                         
                     },
                     {
