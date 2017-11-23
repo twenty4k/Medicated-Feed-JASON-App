@@ -1,7 +1,7 @@
 {
   "$jason": {
     "head": {
-      "title": "Cattle Medications and Mineral Tolerances Menu",
+      "title": "Chicken Medications and Mineral Tolerances Menu",
       "offline": "true",
       "styles": {
         "bold": {
@@ -24,7 +24,7 @@
     },
     "body": {
       "header": {
-        "title": "Cattle",
+        "title": "Chicken",
         "style": {
           "background": "#8bb92d",
           "color": "#ffffff",
@@ -54,7 +54,7 @@
               {
                 "type": "label",
                 "class": "bold",
-                "text": "Cattle Medications"
+                "text": "Chicken Medications"
               },
               {
                 "type": "label",
@@ -263,7 +263,25 @@
                 "text": "Other Info"
               }
             ]
-          }
+          },
+          "items": [
+            {
+              "type": "label",
+              "text": "Poultry Bluebird Labels",
+              "href": {
+                "url": "https://jasonbase.com/things/RPzd.json",
+                "transition": "modal"
+              }
+            },
+            {
+              "type": "label",
+              "text": "Placeholder",
+              "href": {
+                "url": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/home.json",
+                "transition": "modal"
+              }
+            }
+          ]
         }
       ]
     }
