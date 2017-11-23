@@ -263,24 +263,7 @@
                 "text": "Other Info"
               }
             ]
-          },
-          "items": [
-            {
-              "type": "label",
-              "text": "
-                "url": "https://jasonbase.com/things/RPzd.json",
-                "transition": "modal"
-              }
-            },
-            {
-              "type": "label",
-              "text": "Placeholder",
-              "href": {
-                "url": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/home.json",
-                "transition": "modal"
-              }
-            }
-          ]
+          }
         }
       ]
     }
