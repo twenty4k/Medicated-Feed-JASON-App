@@ -1,0 +1,289 @@
+﻿{
+  "$jason": {
+    "head": {
+      "title": "Chicken Medications and Mineral Tolerances Menu",
+      "offline": "true",
+      "styles": {
+        "bold": {
+          "font": "HelveticaNeue-CondensedBold",
+          "size": "20"
+        },
+        "padded": {
+          "padding": "10"
+        },
+        "normal": {
+          "font": "HelveticaNeue",
+          "size": "16"
+        }
+      },
+      "actions": {
+        "$foreground": {
+          "type": "$reload"
+        }
+      }
+    },
+    "body": {
+      "header": {
+        "title": "Chicken",
+        "style": {
+          "background": "#8bb92d",
+          "color": "#ffffff",
+          "font": "AvenirNext-bold",
+          "size": "14"
+        }
+      },
+      "sections": [
+        {
+          "items": [
+            {
+              "type": "vertical",
+              "style": {
+                "background": "rgba(14,122,254,0.1)",
+                "padding": "20"
+              }
+            }
+          ]
+        },
+        {
+          "header": {
+            "type": "vertical",
+            "style": {
+              "background": "#ebebeb"
+            },
+            "components": [
+              {
+                "type": "label",
+                "class": "bold",
+                "text": "Chicken Medications"
+              },
+              {
+                "type": "label",
+                "class": "bold",
+                "text": "& Mineral Tolerances"
+              }
+            ]
+          },
+          "items": [
+            {
+              "type": "label",
+              "text": "Amprolium",
+              "class": "normal padded",
+              "href": {
+                "url": "https://jasonbase.com/things/zMVo.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "Amprolium and ethopabate",
+              "class": "normal padded",
+              "href": {
+                "url": "https://jasonbase.com/things/mKnY.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "Avilamycin",
+              "class": "normal padded",
+              "href": {
+                "url": "https://jasonbase.com/things/QAeQ.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "Bacitracin methylenedisalicylate",
+              "class": "normal padded",
+              "href": {
+                "url": "https://jasonbase.com/things/x3PM.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "Bacitracin zinc",
+              "class": "normal padded",
+              "href": {
+                "url": "https://jasonbase.com/things/nMny.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "Bambermycins",
+              "class": "normal padded",
+              "href": {
+                "url": "https://jasonbase.com/things/E1Zo.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "Chlortetracycline",
+              "class": "normal padded",
+              "href": {
+                "url": "https://jasonbase.com/things/qdjk.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "Clopidol",
+              "class": "normal padded",
+              "href": {
+                "url": "https://jasonbase.com/things/zMzo.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "Coumaphos",
+              "class": "normal padded",
+              "href": {
+                "url": "https://jasonbase.com/things/oZnK.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "Decoquinate",
+              "class": "normal padded",
+              "href": {
+                "url": "https://jasonbase.com/things/PMqQ.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "Diclazuril",
+              "class": "normal padded",
+              "href": {
+                "url": "https://jasonbase.com/things/2Mqm.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "Erythromycin",
+              "class": "normal padded",
+              "href": {
+                "url": "https://jasonbase.com/things/MYeA.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "Hygromycin B",
+              "class": "normal padded",
+              "href": {
+                "url": "https://jasonbase.com/things/KdGM.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "Lincomycin",
+              "class": "normal padded",
+              "href": {
+                "url": "https://jasonbase.com/things/wn2V.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "Nicarbazin",
+              "class": "normal padded",
+              "href": {
+                "url": "https://jasonbase.com/things/6jPD.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "Oxytetracycline",
+              "class": "normal padded",
+              "href": {
+                "url": "https://jasonbase.com/things/DzdQ.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "Oxytetracycline and neomycin",
+              "class": "normal padded",
+              "href": {
+                "url": "https://jasonbase.com/things/4PMd.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "Robenidine",
+              "class": "normal padded",
+              "href": {
+                "url": "https://jasonbase.com/things/VGyp.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "Semduramicin",
+              "class": "normal padded",
+              "href": {
+                "url": "https://jasonbase.com/things/XAy7.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "Sulfaquinoxaline",
+              "class": "normal padded",
+              "href": {
+                "url": "https://jasonbase.com/things/jXnb.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "Virginiamycin",
+              "class": "normal padded",
+              "href": {
+                "url": "https://jasonbase.com/things/pPnK.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "Zoalene",
+              "class": "normal padded",
+              "href": {
+                "url": "https://jasonbase.com/things/ZBeZ.json"
+              }
+            },
+            {
+              "type": "label",
+              "text": "Mineral Tolerances",
+              "class": "normal padded",
+              "href": {
+                "url": "https://jasonbase.com/things/G8dB.json"
+              }
+            }
+          ]
+        },
+        {
+          "header": {
+            "type": "vertical",
+            "style": {
+              "background": "#ebebeb"
+            },
+            "components": [
+              {
+                "type": "label",
+                "class": "bold",
+                "text": "Other Info"
+              }
+            ]
+          },
+          "items": [
+            {
+              "type": "label",
+              "text": "Poultry Bluebird Labels",
+              "href": {
+                "url": "https://jasonbase.com/things/RPzd.json",
+                "transition": "modal"
+              }
+            },
+            {
+              "type": "label",
+              "text": "Placeholder",
+              "href": {
+                "url": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/home.json",
+                "transition": "modal"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
