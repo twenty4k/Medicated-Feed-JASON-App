@@ -1,0 +1,108 @@
+{
+  "$jason": {
+    "head": {
+      "title": "Cattle Amprolium",
+      "offline": "true",
+      "actions": {
+        "$load": {
+          "type": "$network.request",
+          "options": {
+            "url": "https://raw.githubusercontent.com/twenty4k/Medicated-Feed-JASON-App/master/Cattle/Amprolium.json"
+          },
+          "success": {
+            "type": "$render"
+          }
+        }
+      },
+      "templates": {
+        "body": {
+          "style": {
+            "border": "#000000"
+          },
+          "header": {
+            "title": "Amprolium"
+          },
+          "sections": [
+            {
+              "header": {
+                "type": "label",
+                "text": "Weights are g/ton unless indicated otherwise",
+                "style": {
+                  "background": "#f5f5f5",
+                  "padding": "20"
+                }
+              },
+              "items": {
+                "{{#each $jason}}": {
+                  "type": "vertical",
+                  "style": {
+                    "padding": "5",
+                    "spacing": "5"
+                  },
+                  "components": [
+                    {
+                      "type": "label",
+                      "style": {
+                        "size": "14"
+                      },
+                      "text": "Medication: {{Cattle}}"
+                    },
+                    {
+                      "type": "label",
+                      "style": {
+                        "size": "14"
+                      },
+                      "text": "Feeding Rate or Amount: {{Amount}}"
+                    },
+                    {
+                      "type": "label",
+                      "style": {
+                        "size": "14"
+                      },
+                      "text": "Combination: {{Combination}}"
+                    },
+                    {
+                      "type": "label",
+                      "style": {
+                        "size": "14"
+                      },
+                      "text": "Indications for use: {{Indications_for_use}}"
+                    },
+                    {
+                      "type": "label",
+                      "style": {
+                        "size": "14"
+                      },
+                      "text": "Limitations: {{Limitations}}"
+                    },
+                    {
+                      "type": "label",
+                      "style": {
+                        "size": "14"
+                      },
+                      "text": "Sponsor: {{Sponsor}}"
+                    },
+                    
+                    {
+                      "type": "space",
+                      "style": {
+                        "height": "50"
+                      }
+                    }
+                  ],
+                  "action": {
+                    "type": "$widget.banner",
+                    "options": {
+                      "title": "You selected",
+                      "description": "{{title}}"
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}
