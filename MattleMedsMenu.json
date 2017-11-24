@@ -1,7 +1,7 @@
 ﻿{
   "$jason": {
     "head": {
-      "title": "Chicken Medications and Mineral Tolerances Menu",
+      "title": "Cattle Medications and Mineral Tolerances Menu",
       "offline": "true",
       "styles": {
         "bold": {
@@ -24,7 +24,7 @@
     },
     "body": {
       "header": {
-        "title": "Chicken",
+        "title": "Cattle",
         "style": {
           "background": "#8bb92d",
           "color": "#ffffff",
@@ -54,7 +54,7 @@
               {
                 "type": "label",
                 "class": "bold",
-                "text": "Chicken Medications"
+                "text": "Cattle Medications"
               },
               {
                 "type": "label",
