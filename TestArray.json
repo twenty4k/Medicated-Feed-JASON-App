@@ -35,23 +35,10 @@
               "items": {
                 "{{#each Amprolium}}": {
                   "type": "label",
-                      "style": {"size": "14"},
-                      "text": "{{this}}"
-                    },
-                    {
-                      "type": "space",
-                      "style": {
-                        "height": "50"
-                      }
-                    }
-                  ],
-                  "action": {
-                    "type": "$widget.banner",
-                    "options": {
-                      "title": "You selected",
-                      "description": "{{title}}"
-                    }
-                  }
+                  "style": {
+                    "size": "14"
+                  },
+                  "text": "{{this}}"
                 }
               }
             }
