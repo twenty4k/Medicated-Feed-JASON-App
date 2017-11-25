@@ -2,7 +2,6 @@
   "$jason": {
     "head": {
       "title": "Test",
-      "offline": "true",
       "actions": {
         "$load": {
           "type": "$network.request",
@@ -17,12 +16,13 @@
       "templates": {
         "body": {
           "style": {
-            "border": "#000000"
+            "border": "none"
           },
           "header": {
             "title": "Amprolium"
           },
-          "sections": [{
+          "sections": [
+		  			{
               "header":{
                 "type": "label",
                 "text": "Weights are g/ton unless indicated otherwise",
@@ -30,9 +30,15 @@
 		  },
               "items": {
                 "{{#each $Amprolium}}": {
-                  "type": "label",
-                  "text": "{{this}}"
-                }
+									"type": "horizontal",
+                  "style": {
+                    "padding": "10",
+                    "spacing": "10"},
+									"components": [
+										{
+                  		"type": "label",
+                  		"text": "{{this}}"
+                }]
               }
             }
           ]
