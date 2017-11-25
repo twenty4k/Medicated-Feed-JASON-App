@@ -33,7 +33,7 @@
                 }
               },
               "items": {
-                "{{#each $jason}}": {
+                "{{#each Amprolium}}": {
                   "type": "vertical",
                   "style": {
                     "padding": "5",
