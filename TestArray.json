@@ -34,20 +34,10 @@
               },
               "items": {
                 "{{#each Amprolium}}": {
-                  "type": "vertical",
-                  "style": {
-                    "padding": "5",
-                    "spacing": "5"
-                  },
-                  "components": [
-                    {
-                      "type": "label",
-                      "style": {
-                        "size": "14"
-                      },
+                  "type": "label",
+                      "style": {"size": "14"},
                       "text": "{{this}}"
                     },
-                                        
                     {
                       "type": "space",
                       "style": {
