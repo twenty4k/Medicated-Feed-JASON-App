@@ -35,9 +35,6 @@
               "items": {
                 "{{#each Amprolium}}": {
                   "type": "label",
-                  "style": {
-                    "size": "14"
-                  },
                   "text": "{{this}}"
                 }
               }
