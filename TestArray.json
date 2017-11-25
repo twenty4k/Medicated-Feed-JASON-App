@@ -10,7 +10,7 @@
             "url": "https://raw.githubusercontent.com/twenty4k/Medicated-Feed-JASON-App/master/test.json"
           },
           "success": {
-            "type": "$render"
+            "type": "$root.$get"
           }
         }
       },
