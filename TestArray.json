@@ -22,23 +22,29 @@
             "title": "Amprolium"
           },
           "sections": [
-		  			{
-              "header":{
+            {
+              "header": {
                 "type": "label",
                 "text": "Weights are g/ton unless indicated otherwise",
-                "style": {"background": "#f5f5f5","padding": "20"}
-		  },
+                "style": {
+                  "background": "#f5f5f5",
+                  "padding": "20"
+                }
+              },
               "items": {
                 "{{#each $Amprolium}}": {
-									"type": "horizontal",
+                  "type": "horizontal",
                   "style": {
                     "padding": "10",
-                    "spacing": "10"},
-									"components": [
-										{
-                  		"type": "label",
-                  		"text": "{{this}}"
-                }]
+                    "spacing": "10"
+                  },
+                  "components": [
+                    {
+                      "type": "label",
+                      "text": "{{this}}"
+                    }
+                  ]
+                }
               }
             }
           ]
