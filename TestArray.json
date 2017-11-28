@@ -19,7 +19,7 @@
                 },
                 "components": [{
                   "type": "label",
-                  "text": "{{this}}"
+                  "text": "{{profile}}"
                 }]
               }
             }
