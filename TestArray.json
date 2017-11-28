@@ -5,7 +5,7 @@
       "data": {
         "users": [{
           "profile": "https://raw.githubusercontent.com/twenty4k/Medicated-Feed-JASON-App/master/test.json",
-          "username": "gliechtenstein"
+          "username": "https://raw.githubusercontent.com/twenty4k/Medicated-Feed-JASON-App/master/test.json"
         }]
       },
       "templates": {
