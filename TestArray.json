@@ -2,52 +2,31 @@
   "$jason": {
     "head": {
       "title": "Test",
-      "actions": {
-        "$load": {
-          "type": "$network.request",
-          "options": {
-            "url": "https://raw.githubusercontent.com/twenty4k/Medicated-Feed-JASON-App/master/test.json"
-          },
-          "success": {
-            "type": "$render"
-          }
-        }
+      "data": {
+        "users": [{
+          "profile": "https://raw.githubusercontent.com/twenty4k/Medicated-Feed-JASON-App/master/test.json",
+          "username": "gliechtenstein"
+        }]
       },
       "templates": {
         "body": {
-          "style": {
-            "border": "none"
-          },
-          "header": {
-            "title": "Amprolium"
-          },
-          "sections": [
-            {
-              "header": {
-                "type": "label",
-                "text": "Weights are g/ton unless indicated otherwise",
+          "sections": [{
+            "items": {
+              "{{#each users}}": {
+                "type": "horizontal",
                 "style": {
-                  "background": "#f5f5f5",
-                  "padding": "20"
-                }
-              },
-              "items": {
-                "{{#each amprolium}}": {
-                  "type": "horizontal",
-                  "style": {
-                    "padding": "10",
-                    "spacing": "10"
-                  },
-                  "components": [
-                    {
-                      "type": "label",
-                      "text": "{{this}}"
-                    }
-                  ]
-                }
+                  "spacing": "10"
+                },
+                "components": [{
+                  "type": "text",
+                  "url": "{{profile}}"
+                }, {
+                  "type": "label",
+                  "text": "{{username}}"
+                }]
               }
             }
-          ]
+          }]
         }
       }
     }
