@@ -18,11 +18,8 @@
                   "spacing": "10"
                 },
                 "components": [{
-                  "type": "text",
-                  "url": "{{profile}}"
-                }, {
                   "type": "label",
-                  "text": "{{username}}"
+                  "text": "{{this}}"
                 }]
               }
             }
