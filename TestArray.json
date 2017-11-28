@@ -1,11 +1,17 @@
 {
   "$jason": {
     "head": {
-      "title": "Test",
+      "title": "#each",
       "data": {
         "users": [{
           "profile": "https://raw.githubusercontent.com/twenty4k/Medicated-Feed-JASON-App/master/test.json",
           "username": "https://raw.githubusercontent.com/twenty4k/Medicated-Feed-JASON-App/master/test.json"
+        }, {
+          "profile": "https://pbs.twimg.com/profile_images/660748555452223488/seiYgVbF.png",
+          "username": "thinkpiecebot"
+        }, {
+          "profile": "https://pbs.twimg.com/profile_images/693649835086360577/xPofOC6p.png",
+          "username": "catsnacks"
         }]
       },
       "templates": {
@@ -18,8 +24,14 @@
                   "spacing": "10"
                 },
                 "components": [{
+                  "type": "image",
+                  "style": {
+                    "width": "50"
+                  },
+                  "url": "{{profile}}"
+                }, {
                   "type": "label",
-                  "text": "{{profile}}"
+                  "text": "{{username}}"
                 }]
               }
             }
