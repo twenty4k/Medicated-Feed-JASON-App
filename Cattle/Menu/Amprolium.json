@@ -28,8 +28,8 @@
                 "type": "label",
                 "text": "§ 558.55 Amprolium Approvals",
                 "style": {
-                  "background": "#f5f5f5",
-                  "padding": "80"
+                  "background": "#f5f5f5"
+                  
                 }
               },
               "items": {
