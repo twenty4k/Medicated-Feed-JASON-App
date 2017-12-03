@@ -26,10 +26,10 @@
             {
               "header": {
                 "type": "label",
-                "text": "§ 558.55 Amprolium. a",
+                "text": "Weights are g/ton unless indicated otherwise",
                 "style": {
-                  "background": "#f5f5f5"
-                  
+                  "background": "#f5f5f5",
+                  "padding": "20"
                 }
               },
               "items": {
