@@ -60,13 +60,6 @@
                       "style": {
                         "size": "14"
                       },
-                      "text": "Indications for use: {{Indicationsforuse}}"
-                    },
-                    {
-                      "type": "label",
-                      "style": {
-                        "size": "14"
-                      },
                       "text": "Limitations: {{Limitations}}"
                     },
                     {
