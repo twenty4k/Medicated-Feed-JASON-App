@@ -46,14 +46,14 @@
                       "style": {
                         "size": "14"
                       },
-                      "text": "Bacitracin methylenedisalicylate amount: {{Bacitracin methylenedisalicylate amount}}"
+                      "text": "Bacitracin methylenedisalicylate amount: {{Bacitracin_methylenedisalicylate_amount}}"
                     },
                     {
                       "type": "label",
                       "style": {
                         "size": "14"
                       },
-                      "text": "Indications for use: {{Indications for use}}"
+                      "text": "Indications for use: {{Indications_for_use}}"
                     },
                     {
                       "type": "label",
