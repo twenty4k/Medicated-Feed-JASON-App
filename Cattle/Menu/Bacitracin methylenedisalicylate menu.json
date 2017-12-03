@@ -7,7 +7,7 @@
         "$load": {
           "type": "$network.request",
           "options": {
-            "url": "https://raw.githubusercontent.com/twenty4k/Medicated-Feed-JASON-App/master/Cattle/Amprolium.json"
+            "url": "https://raw.githubusercontent.com/twenty4k/Medicated-Feed-JASON-App/master/Cattle/Bacitracin%20methylenedisalicylate.json"
           },
           "success": {
             "type": "$render"
@@ -46,7 +46,7 @@
                       "style": {
                         "size": "14"
                       },
-                      "text": " "Bacitracin methylenedisalicylate amount": {{ "Bacitracin methylenedisalicylate amount"}}"
+                      "text": "Bacitracin methylenedisalicylate amount: {{Bacitracin methylenedisalicylate amount}}"
                     },
                     {
                       "type": "label",
