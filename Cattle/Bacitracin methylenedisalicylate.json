@@ -1,4 +1,4 @@
-  {
+  [{
     "Bacitracin_methylenedisalicylate_amount": "(xiii) To provide 70 mg per head per day",
     "Indications_for_use": "Feedlot beef cattle: For reduction in the number of liver condemnations due to abscesses",
     "Limitations": "Administer continuously throughout the feeding period",
@@ -22,4 +22,4 @@
     "Limitations": "Administer continuously for 5 days then discontinue for subsequent 25 days, repeat the pattern during the feeding period",
     "Sponsor": "069254"
   }
-  
+  ]
