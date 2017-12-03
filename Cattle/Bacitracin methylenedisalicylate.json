@@ -1,32 +1,27 @@
-{
-      "Cattle": "§ 558.76 Bacitracin methylenedisalicylate (a) Specifications. (1) Type A medicated articles containing 10, 25, 30, 40, 50, 60, or 75 grams bacitracin methylenedisalicylate per pound.(2) Type A medicated article containing 50 grams bacitracin methylenedisalicylate per pound.(b) Sponsors. See sponsors in § 510.600(c) of this chapter:(1) No. 054771 for use of products in paragraph (a)(1) of this section as in paragraphs (e)(1)(i), (e)(1)(iii), (e)(1)(v) through (xiii), and (e)(1)(xv) of this section.(2) No. 069254 for use of products in paragraph (a)(2) of this section as in paragraphs (e)(1)(ii), (e)(1)(iv), (e)(1)(xiv), and (e)(1)(xvi) of this section.(c) Special considerations. The quantities of antibiotics are expressed in terms of the equivalent amount of antibiotic standard.(d) Related tolerances. See § 556.70 of this chapter.(e) Conditions of use. (1) It is used as follows:",
-      "Amount": "(xiii) To provide 70 mg per head per day",
-      "Combination in grams/ton": " ",
-      "Indicationsforuse": "Feedlot beef cattle: For reduction in the number of liver condemnations due to abscesses",
-      "Limitations": "Administer continuously throughout the feeding period",
-      "Sponsor": "54771"
-    },
-    {
-      "Cattle": "§ 558.76 Bacitracin methylenedisalicylate (a) Specifications. (1) Type A medicated articles containing 10, 25, 30, 40, 50, 60, or 75 grams bacitracin methylenedisalicylate per pound.(2) Type A medicated article containing 50 grams bacitracin methylenedisalicylate per pound.(b) Sponsors. See sponsors in § 510.600(c) of this chapter:(1) No. 054771 for use of products in paragraph (a)(1) of this section as in paragraphs (e)(1)(i), (e)(1)(iii), (e)(1)(v) through (xiii), and (e)(1)(xv) of this section.(2) No. 069254 for use of products in paragraph (a)(2) of this section as in paragraphs (e)(1)(ii), (e)(1)(iv), (e)(1)(xiv), and (e)(1)(xvi) of this section.(c) Special considerations. The quantities of antibiotics are expressed in terms of the equivalent amount of antibiotic standard.(d) Related tolerances. See § 556.70 of this chapter.(e) Conditions of use. (1) It is used as follows:",
-      "Amount": "(xiv) To provide 70 mg per head per day",
-      "Combination in grams/ton":  "",
-      "Indicationsforuse": "Beef steers and heifers fed in confinement for slaughter: For reduction in the number of liver condemnations due to abscesses",
-      "Limitations": "Administer continuously throughout the feeding period",
-      "Sponsor": "69254"
-    },
-    {
-      "Cattle": "§ 558.76 Bacitracin methylenedisalicylate (a) Specifications. (1) Type A medicated articles containing 10, 25, 30, 40, 50, 60, or 75 grams bacitracin methylenedisalicylate per pound.(2) Type A medicated article containing 50 grams bacitracin methylenedisalicylate per pound.(b) Sponsors. See sponsors in § 510.600(c) of this chapter:(1) No. 054771 for use of products in paragraph (a)(1) of this section as in paragraphs (e)(1)(i), (e)(1)(iii), (e)(1)(v) through (xiii), and (e)(1)(xv) of this section.(2) No. 069254 for use of products in paragraph (a)(2) of this section as in paragraphs (e)(1)(ii), (e)(1)(iv), (e)(1)(xiv), and (e)(1)(xvi) of this section.(c) Special considerations. The quantities of antibiotics are expressed in terms of the equivalent amount of antibiotic standard.(d) Related tolerances. See § 556.70 of this chapter.(e) Conditions of use. (1) It is used as follows:",
-      "Amount": "(xv) To provide 250 mg per head per day",
-      "Combination": " ",
-      "Indicationsforuse": "Feedlot beef cattle: For reduction in the number of liver condemnations due to abscesses",
-      "Limitations": "Administer continuously for 5 days then discontinue for subsequent 25 days, repeat the pattern during the feeding period",
-      "Sponsor": "54771"
-    },
-    {
-      "Cattle": "§ 558.76 Bacitracin methylenedisalicylate (a) Specifications. (1) Type A medicated articles containing 10, 25, 30, 40, 50, 60, or 75 grams bacitracin methylenedisalicylate per pound.(2) Type A medicated article containing 50 grams bacitracin methylenedisalicylate per pound.(b) Sponsors. See sponsors in § 510.600(c) of this chapter:(1) No. 054771 for use of products in paragraph (a)(1) of this section as in paragraphs (e)(1)(i), (e)(1)(iii), (e)(1)(v) through (xiii), and (e)(1)(xv) of this section.(2) No. 069254 for use of products in paragraph (a)(2) of this section as in paragraphs (e)(1)(ii), (e)(1)(iv), (e)(1)(xiv), and (e)(1)(xvi) of this section.(c) Special considerations. The quantities of antibiotics are expressed in terms of the equivalent amount of antibiotic standard.(d) Related tolerances. See § 556.70 of this chapter.(e) Conditions of use. (1) It is used as follows:",
-      "Amount": "(xvi) To provide 250 mg per head per day",
-      "Combination in grams/ton": " ",
-      "Indicationsforuse": "Beef steers and heifers fed in confinement for slaughter: For reduction in the number of liver condemnations due to abscesses",
-      "Limitations": "Administer continuously for 5 days then discontinue for subsequent 25 days, repeat the pattern during the feeding period",
-      "Sponsor": "69254"
-    }
+[
+  {
+    "Bacitracin methylenedisalicylate amount": "(xiii) To provide 70 mg per head per day",
+    "Indications for use": "Feedlot beef cattle: For reduction in the number of liver condemnations due to abscesses",
+    "Limitations": "Administer continuously throughout the feeding period",
+    "Sponsor": "054771"
+  },
+  {
+    "Bacitracin methylenedisalicylate amount": "(xiv) To provide 70 mg per head per day",
+    "Indications for use": "Beef steers and heifers fed in confinement for slaughter: For reduction in the number of liver condemnations due to abscesses",
+    "Limitations": "Administer continuously throughout the feeding period",
+    "Sponsor": "069254"
+  },
+  {
+    "Bacitracin methylenedisalicylate amount": "(xv) To provide 250 mg per head per day",
+    "Indications for use": "Feedlot beef cattle: For reduction in the number of liver condemnations due to abscesses",
+    "Limitations": "Administer continuously for 5 days then discontinue for subsequent 25 days, repeat the pattern during the feeding period",
+    "Sponsor": "054771""
+  },
+  {
+    "Bacitracin methylenedisalicylate amount": "(xvi) To provide 250 mg per head per day",
+    "Indications for use": "Beef steers and heifers fed in confinement for slaughter: For reduction in the number of liver condemnations due to abscesses",
+    "Limitations": "Administer continuously for 5 days then discontinue for subsequent 25 days, repeat the pattern during the feeding period",
+    "Sponsor": "069254"
+  }
+  
+]
