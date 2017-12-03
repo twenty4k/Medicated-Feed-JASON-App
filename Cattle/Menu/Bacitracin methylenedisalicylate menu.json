@@ -1,0 +1,101 @@
+{
+  "$jason": {
+    "head": {
+      "title": "Bacitracin methylenedisalicylate",
+      "offline": "true",
+      "actions": {
+        "$load": {
+          "type": "$network.request",
+          "options": {
+            "url": "https://raw.githubusercontent.com/twenty4k/Medicated-Feed-JASON-App/master/Cattle/Amprolium.json"
+          },
+          "success": {
+            "type": "$render"
+          }
+        }
+      },
+      "templates": {
+        "body": {
+          "style": {
+            "border": "#000000"
+          },
+          "header": {
+            "title": "§ 558.76 Bacitracin methylenedisalicylate"
+          },
+          "sections": [
+            {
+              "header": {
+                "type": "label",
+                "text": "§ 558.76 Bacitracin methylenedisalicylate.(a) Specifications. (1) Type A medicated articles containing 10, 25, 30, 40, 50, 60, or 75 grams bacitracin methylenedisalicylate per pound.(2) Type A medicated article containing 50 grams bacitracin methylenedisalicylate per pound.(b) Sponsors. See sponsors in § 510.600(c) of this chapter:(1) No. 054771 for use of products in paragraph (a)(1) of this section as in paragraphs (e)(1)(i), (e)(1)(iii), (e)(1)(v) through (xiii), and (e)(1)(xv) of this section.(2) No. 069254 for use of products in paragraph (a)(2) of this section as in paragraphs (e)(1)(ii), (e)(1)(iv), (e)(1)(xiv), and (e)(1)(xvi) of this section.(c) Special considerations. The quantities of antibiotics are expressed in terms of the equivalent amount of antibiotic standard.(d) Related tolerances. See § 556.70 of this chapter.(e) Conditions of use. (1) It is used as follows:",
+                "style": {
+                  "background": "#f5f5f5",
+                  "padding": "20"
+                }
+              },
+              "items": {
+                "{{#each $jason}}": {
+                  "type": "vertical",
+                  "style": {
+                    "padding": "5",
+                    "spacing": "5"
+                  },
+                  "components": [
+                   
+                    {
+                      "type": "label",
+                      "style": {
+                        "size": "14"
+                      },
+                      "text": " "Bacitracin methylenedisalicylate amount": {{ "Bacitracin methylenedisalicylate amount"}}"
+                    },
+                    {
+                      "type": "label",
+                      "style": {
+                        "size": "14"
+                      },
+                      "text": "Indications for use: {{Indications for use}}"
+                    },
+                    {
+                      "type": "label",
+                      "style": {
+                        "size": "14"
+                      },
+                      "text": "Indications for use: {{Indicationsforuse}}"
+                    },
+                    {
+                      "type": "label",
+                      "style": {
+                        "size": "14"
+                      },
+                      "text": "Limitations: {{Limitations}}"
+                    },
+                    {
+                      "type": "label",
+                      "style": {
+                        "size": "14"
+                      },
+                      "text": "Sponsor: {{Sponsor}}"
+                    },
+                    {
+                      "type": "space",
+                      "style": {
+                        "height": "50"
+                      }
+                    }
+                  ],
+                  "action": {
+                    "type": "$widget.banner",
+                    "options": {
+                      "title": "You selected",
+                      "description": "{{title}}"
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}
