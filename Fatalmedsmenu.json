@@ -33,7 +33,7 @@
             {
               "header": {
                 "type": "label",
-                "text": "These combinations may be fatal if consumed",
+                "text": "These combinations may be fatal if consumed.  References include CPGM 7371.004, 21 CFR 558, and Mineral Tolerance of Animals Second Revised Edition 2005",
                 "style": {
                   "background": "#f5f5f5",
                   "padding": "20"
