@@ -1,0 +1,739 @@
+[
+  [
+    {
+      "Species": "Cattle",
+      "Medication & Minerals": [
+        {
+          "Lasalocid": "excess lasalocid concentration could be fatal"
+        },
+        {
+          "Monensin": "Feeding undiluted or mixing errors resulting in high concentrations of monensin has been fatal to cattle. Ingestion by cattle of monensin at levels of 600 milligrams per head per day and higher has been fatal."
+        },
+        {
+          "Aluminum": "1000 mg/kg"
+        },
+        {
+          "Arsenic": "30 mg/kg"
+        },
+        {
+          "Boron": "150200 mg/kg"
+        },
+        {
+          "Bromine": "10 mg/kg"
+        },
+        {
+          "Cadmium": "1.5 mg/kg"
+        },
+        {
+          "Calcium": 1
+        },
+        {
+          "Chromium soluble Cr+++": "3000 mg/kg"
+        },
+        {
+          "CrO": "25 mg/kg"
+        },
+        {
+          "Cobalt": "40 mg/kg"
+        },
+        {
+          "Copper": "40 mg/kg"
+        },
+        {
+          "Germanium": "50 mg/kg"
+        },
+        {
+          "Iodine": "500 mg/kg"
+        },
+        {
+          "Iron": "100 mg/kg"
+        },
+        {
+          "Lead": "25 mg/kg"
+        },
+        {
+          "Lithium": "0.6 mg/kg"
+        },
+        {
+          "Magnesium": "error"
+        },
+        {
+          "Mercury organic": "2 mg/kg"
+        },
+        {
+          "Molybdenum": "5 mg/kg"
+        },
+        {
+          "Nickel": "100 mg/kg"
+        },
+        {
+          "Phosphorus": "error 0.007"
+        },
+        {
+          "Potassium": "error 0.02"
+        },
+        {
+          "Selenium": "5 mg/kg"
+        },
+        {
+          "Silicon": "error 0.005"
+        },
+        {
+          "Sodium Chloride": "4.5 Growing ~ 3.0 lactating %"
+        },
+        {
+          "Strontium": "2000 mg/kg"
+        },
+        {
+          "Sulfur": "0.30 High Concentrate Diet ~ 0.50 High Forage Diet %"
+        },
+        {
+          "Tin": "100 mg/kg"
+        },
+        {
+          "Tungsten": "20 mg/kg"
+        },
+        {
+          "Vanadium": "50 mg/kg"
+        },
+        {
+          "Zinc": "500 mg/kg"
+        }
+      ]
+    },
+    {
+      "Species": "Chicken",
+      "Medication & Minerals": [
+        {
+          "Aluminum": "1000 mg/kg"
+        },
+        {
+          "Arsenic": "30 mg/kg"
+        },
+        {
+          "Barium": "100 mg/kg"
+        },
+        {
+          "Bismuth": "1000 mg/kg"
+        },
+        {
+          "Boron": "150 mg/kg"
+        },
+        {
+          "Bromine": "2500 mg/kg"
+        },
+        {
+          "Cadmium": "10 mg/kg"
+        },
+        {
+          "Calcium": "1.5 Growing ~ 5 laying hens %"
+        },
+        {
+          "Chromium soluble Cr+++": "500 mg/kg"
+        },
+        {
+          "CrO": "3000 mg/kg"
+        },
+        {
+          "Cobalt": "25 mg/kg"
+        },
+        {
+          "Copper": "250 mg/kg"
+        },
+        {
+          "Flourine": "150 mg/kg"
+        },
+        {
+          "Iodine": "300 mg/kg"
+        },
+        {
+          "Iron": "500 mg/kg"
+        },
+        {
+          "Lead": "10 mg/kg"
+        },
+        {
+          "Lithium": "25 mg/kg"
+        },
+        {
+          "Magnesium": "0.5 Growing ~ 0.75 laying %"
+        },
+        {
+          "Manganese": "2000 mg/kg"
+        },
+        {
+          "Mercury inorganic": "0.2 mg/kg"
+        },
+        {
+          "Mercury organic": "1 mg/kg"
+        },
+        {
+          "Molybdenum": "100 mg/kg"
+        },
+        {
+          "Nickel": "250 mg/kg"
+        },
+        {
+          "Phosphorus": "1 Growing ~ 0.8 laying %"
+        },
+        {
+          "Potassium": " error 0.01"
+        },
+        {
+          "Selenium": "3 mg/kg"
+        },
+        {
+          "Silicon": "%"
+        },
+        {
+          "Silver": "100 mg/kg"
+        },
+        {
+          "Sodium Chloride": "error 0.017"
+        },
+        {
+          "Strontium": "2000 mg/kg"
+        },
+        {
+          "Sulfur": "error 0.004"
+        },
+        {
+          "Tin": "100 mg/kg"
+        },
+        {
+          "Tungsten": "20 mg/kg"
+        },
+        {
+          "Vanadium": "25 growing ~ <5 laying mg/kg"
+        },
+        {
+          "Zinc": "500 mg/kg"
+        }
+      ]
+    },
+    {
+      "Species": "Horses",
+      "Medication & Minerals": [
+        {
+          "Lasalocid": "excess lasalocid concentration could be fatal"
+        },
+        {
+          "Monensin": "Ingestion of monensin by horses has been fatal"
+        },
+        {
+          "Narasin": "Ingestion of narasin by these species has been fatal"
+        },
+        {
+          "Salinomycin": "May be fatal"
+        },
+        {
+          "Aluminum": "1000 mg/kg"
+        },
+        {
+          "Arsenic": "30 mg/kg"
+        },
+        {
+          "Barium": "100 mg/kg"
+        },
+        {
+          "Bismuth": "500 mg/kg"
+        },
+        {
+          "Boron": "150 mg/kg"
+        },
+        {
+          "Bromine": "200 mg/kg"
+        },
+        {
+          "Cadmium": "10 mg/kg"
+        },
+        {
+          "Calcium": "error 0.02"
+        },
+        {
+          "Chromium soluble Cr+++": "100 mg/kg"
+        },
+        {
+          "CrO": "3000 mg/kg"
+        },
+        {
+          "Cobalt": "25 mg/kg"
+        },
+        {
+          "Copper": "250 mg/kg"
+        },
+        {
+          "Flourine": "40 mg/kg"
+        },
+        {
+          "Iodine": "5 mg/kg"
+        },
+        {
+          "Iron": "500 mg/kg"
+        },
+        {
+          "Lead": "10 mg/kg"
+        },
+        {
+          "Lithium": "25 mg/kg"
+        },
+        {
+          "Magnesium": "error 0.008"
+        },
+        {
+          "Manganese": "400 mg/kg"
+        },
+        {
+          "Mercury inorganic": "0.2 mg/kg"
+        },
+        {
+          "Mercury organic": "1 mg/kg"
+        },
+        {
+          "Molybdenum": "5 mg/kg"
+        },
+        {
+          "Nickel": "50 mg/kg"
+        },
+        {
+          "Phosphorus": "error 0.01"
+        },
+        {
+          "Potassium": "error 0.01"
+        },
+        {
+          "Selenium": "5 mg/kg"
+        },
+        {
+          "Silicon": "%"
+        },
+        {
+          "Sodium Chloride": "error 0.06"
+        },
+        {
+          "Strontium": "2000 mg/kg"
+        },
+        {
+          "Sulfur": "error 0.005"
+        },
+        {
+          "Tin": "100 mg/kg"
+        },
+        {
+          "Tungsten": "20 mg/kg"
+        },
+        {
+          "Vanadium": "10 mg/kg"
+        },
+        {
+          "Zinc": "500 mg/kg"
+        }
+      ]
+    },
+    {
+      "Species": "Fish",
+      "Medication & Minerals": [
+        {
+          "Arsenic": "5 mg/kg"
+        },
+        {
+          "Cadmium": "10 mg/kg"
+        },
+        {
+          "Calcium": "error 0.009"
+        },
+        {
+          "CrO": "3000 mg/kg"
+        },
+        {
+          "Copper": "100 mg/kg"
+        },
+        {
+          "Lead": "10 mg/kg"
+        },
+        {
+          "Magnesium": "error 0.003"
+        },
+        {
+          "Mercury organic": "1 mg/kg"
+        },
+        {
+          "Molybdenum": "10 mg/kg"
+        },
+        {
+          "Nickel": "50 mg/kg"
+        },
+        {
+          "Phosphorus": "error 0.01"
+        },
+        {
+          "Potassium": "%"
+        },
+        {
+          "Selenium": "2 mg/kg"
+        },
+        {
+          "Silicon": "%"
+        },
+        {
+          "Silver": ">3 mg/kg"
+        },
+        {
+          "Sodium Chloride": "%"
+        },
+        {
+          "Sulfur": "%"
+        },
+        {
+          "Uranium": "<100 mg/kg"
+        },
+        {
+          "Zinc": "250 mg/kg"
+        }
+      ]
+    },
+    {
+      "Species": "Sheep",
+      "Medication & Minerals": [
+        {
+          "Lasalocid": "excess lasalocid concentration could be fatal"
+        }, 
+        {
+          "Aluminum": "1000 mg/kg"
+        },
+        {
+          "Arsenic": "30 mg/kg"
+        },
+        {
+          "Boron": "150 mg/kg"
+        },
+        {
+          "Bromine": "200 mg/kg"
+        },
+        {
+          "Cadmium": "10 mg/kg"
+        },
+        {
+          "Calcium": "error 0.015"
+        },
+        {
+          "Chromium soluble Cr+++": "100 mg/kg"
+        },
+        {
+          "CrO": "3000 mg/kg"
+        },
+        {
+          "Cobalt": "25 mg/kg"
+        },
+        {
+          "Copper": "15 mg/kg"
+        },
+        {
+          "Flourine": "60 mg/kg"
+        },
+        {
+          "Iodine": "50 mg/kg"
+        },
+        {
+          "Iron": "500 mg/kg"
+        },
+        {
+          "Lead": "100 mg/kg"
+        },
+        {
+          "Lithium": "25 mg/kg"
+        },
+        {
+          "Magnesium": "error 0.006"
+        },
+        {
+          "Manganese": "2000 mg/kg"
+        },
+        {
+          "Mercury organic": "2 mg/kg"
+        },
+        {
+          "Molybdenum": "5 mg/kg"
+        },
+        {
+          "Nickel": "100 mg/kg"
+        },
+        {
+          "Phosphorus": "error 0.007"
+        },
+        {
+          "Potassium": "error 0.02"
+        },
+        {
+          "Selenium": "5 mg/kg"
+        },
+        {
+          "Silicon": "error 0.002"
+        },
+        {
+          "Sodium Chloride": "error 0.04"
+        },
+        {
+          "Strontium": "2000 mg/kg"
+        },
+        {
+          "Sulfur": "0.30 High Concentrate Diet ~ 0.50 High Forage Diet %"
+        },
+        {
+          "Tin": "100 mg/kg"
+        },
+        {
+          "Tungsten": "20 mg/kg"
+        },
+        {
+          "Vanadium": "50 mg/kg"
+        },
+        {
+          "Zinc": "300 mg/kg"
+        }
+      ]
+    },
+    {
+      "Species": "Swine",
+      "Medication & Minerals": [
+        {
+          "Aluminum": "1000 mg/kg"
+        },
+        {
+          "Arsenic": "30 mg/kg"
+        },
+        {
+          "Barium": "100 mg/kg"
+        },
+        {
+          "Bismuth": "500 mg/kg"
+        },
+        {
+          "Boron": "150 mg/kg"
+        },
+        {
+          "Bromine": "200 mg/kg"
+        },
+        {
+          "Cadmium": "10 mg/kg"
+        },
+        {
+          "Calcium": "error 0.01"
+        },
+        {
+          "Chromium soluble Cr+++": "100 mg/kg"
+        },
+        {
+          "CrO": "3000 mg/kg"
+        },
+        {
+          "Cobalt": "100 mg/kg"
+        },
+        {
+          "Copper": "250 mg/kg"
+        },
+        {
+          "Flourine": "150 mg/kg"
+        },
+        {
+          "Iodine": "400 mg/kg"
+        },
+        {
+          "Iron": "3000 mg/kg"
+        },
+        {
+          "Lead": "10 mg/kg"
+        },
+        {
+          "Lithium": "25 mg/kg"
+        },
+        {
+          "Magnesium": "error 0.0024"
+        },
+        {
+          "Manganese": "1000 mg/kg"
+        },
+        {
+          "Mercury inorganic": "0.2 mg/kg"
+        },
+        {
+          "Mercury organic": "2 mg/kg"
+        },
+        {
+          "Molybdenum": "150 mg/kg"
+        },
+        {
+          "Nickel": "250 mg/kg"
+        },
+        {
+          "Phosphorus": "error 0.01"
+        },
+        {
+          "Potassium": "error 0.01"
+        },
+        {
+          "Selenium": "4 mg/kg"
+        },
+        {
+          "Silicon": "%"
+        },
+        {
+          "Silver": "100 mg/kg"
+        },
+        {
+          "Sodium Chloride": "error 0.03"
+        },
+        {
+          "Strontium": "2000 mg/kg"
+        },
+        {
+          "Sulfur": "error 0.004"
+        },
+        {
+          "Tin": "100 mg/kg"
+        },
+        {
+          "Tungsten": "20 mg/kg"
+        },
+        {
+          "Vanadium": "10 mg/kg"
+        },
+        {
+          "Zinc": "1000 mg/kg"
+        }
+      ]
+    },
+    {
+      "Species": "Turkey",
+      "Medication & Minerals": [
+        {
+          "Narasin": "Ingestion of narasin by these species has been fatal"
+        },
+        {
+          "Salinomycin": "May be fatal"
+        },
+        {
+          "Aluminum": "1000 mg/kg"
+        },
+        {
+          "Arsenic": "30 mg/kg"
+        },
+        {
+          "Barium": "100 mg/kg"
+        },
+        {
+          "Bismuth": "1000 mg/kg"
+        },
+        {
+          "Boron": "150 mg/kg"
+        },
+        {
+          "Bromine": "2500 mg/kg"
+        },
+        {
+          "Cadmium": "10 mg/kg"
+        },
+        {
+          "Calcium": "1.5 Growing ~ 5 laying hens %"
+        },
+        {
+          "Chromium soluble Cr+++": "500 mg/kg"
+        },
+        {
+          "CrO": "3000 mg/kg"
+        },
+        {
+          "Cobalt": "25 mg/kg"
+        },
+        {
+          "Copper": "250 mg/kg"
+        },
+        {
+          "Flourine": "150 mg/kg"
+        },
+        {
+          "Iodine": "300 mg/kg"
+        },
+        {
+          "Iron": "500 mg/kg"
+        },
+        {
+          "Lead": "10 mg/kg"
+        },
+        {
+          "Lithium": "25 mg/kg"
+        },
+        {
+          "Magnesium": "0.5 Growing ~ 0.75 laying %"
+        },
+        {
+          "Manganese": "2000 mg/kg"
+        },
+        {
+          "Mercury inorganic": "0.2 mg/kg"
+        },
+        {
+          "Mercury organic": "1 mg/kg"
+        },
+        {
+          "Molybdenum": "100 mg/kg"
+        },
+        {
+          "Nickel": "250 mg/kg"
+        },
+        {
+          "Phosphorus": "1 Growing ~ 0.8 laying %"
+        },
+        {
+          "Potassium": "error 0.01"
+        },
+        {
+          "Selenium": "3 mg/kg"
+        },
+        {
+          "Silicon": "%"
+        },
+        {
+          "Silver": "100 mg/kg"
+        },
+        {
+          "Sodium Chloride": "error 0.017"
+        },
+        {
+          "Strontium": "2000 mg/kg"
+        },
+        {
+          "Sulfur": "error 0.004"
+        },
+        {
+          "Tin": "100 mg/kg"
+        },
+        {
+          "Tungsten": "20 mg/kg"
+        },
+        {
+          "Vanadium": "25 growing ~ <5 laying mg/kg"
+        },
+        {
+          "Zinc": "500 mg/kg"
+        }
+      ]
+    },
+    {
+      "Species": "Goats",
+      "Medication & Minerals": [
+        {
+          "Monensin": "Feeding undiluted or mixing errors resulting in high concentrations of monensin could be fatal to goats"
+        }
+      ]
+    },
+    {
+      "Species": "Guinea Fowl",
+      "Medication & Minerals": [
+        {
+          "Monensin": "Ingestion of monensin by guinea fowl has been fatal"
+        }
+      ]
+    }
+  ]
+]
