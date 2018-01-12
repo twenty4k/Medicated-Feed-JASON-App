@@ -1,7 +1,7 @@
 {
   "$jason": {
     "head": {
-      "title": "Fatal Medication & Species Combination",
+      "title": "Cattle Fatal Medication & Mineral",
       "offline": "true",
       "data": {
         "Cattle": [
@@ -46,7 +46,7 @@
             "border": "none"
           },
           "header": {
-            "title": "Fatal Medication & Species Combination",
+            "title": "Cattle Fatal Medication & Mineral",
             "menu": {
               "text": "21 CFR 558",
               "href": {
