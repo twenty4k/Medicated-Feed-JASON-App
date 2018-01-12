@@ -70,8 +70,8 @@
                   
                   "type": "vertical",
                   "style": {
-                    "padding": "5",
-                    "spacing": "5"
+                    "padding": "1",
+                    "spacing": "1"
                   },
                   "components": [
                     {
