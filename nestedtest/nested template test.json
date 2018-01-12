@@ -7,7 +7,7 @@
         "$load": {
           "type": "$network.request",
           "options": {
-            "url": "https://raw.githubusercontent.com/twenty4k/Medicated-Feed-JASON-App/master/nestedtest/Species%20Medication%20and%20Mineral%20Tolerances.json"
+            "url": "https://raw.githubusercontent.com/twenty4k/Medicated-Feed-JASON-App/master/nestedtest/meds%20and%20mineral.json"
           },
           "success": {
             "type": "$render"
@@ -40,8 +40,8 @@
                 }
               },
               "items": {
-                "{{#each Medication & Minerals}}": {
-                  "{{#each $Species}}" : {
+                "{{#each Cattle}}": {
+                  
                   "type": "vertical",
                   "style": {
                     "padding": "5",
@@ -53,7 +53,7 @@
                       "style": {
                         "size": "14"
                       },
-                      "text": "Species: {{$root.Medication & Minerals.length}}"
+                      "text": "{{this}}"
                     },
                     
                  
@@ -67,7 +67,7 @@
                   
                 }
               }
-            }}
+            }
           ]
         }
       }
