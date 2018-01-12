@@ -3,16 +3,42 @@
     "head": {
       "title": "Fatal Medication & Species Combination",
       "offline": "true",
-      "actions": {
-        "$load": {
-          "type": "$network.request",
-          "options": {
-            "url": "https://raw.githubusercontent.com/twenty4k/Medicated-Feed-JASON-App/master/nestedtest/meds%20and%20mineral.json"
-          },
-          "success": {
-            "type": "$render"
-          }
-        }
+      "data": {
+        "Cattle": [
+          "Lasalocid: excess lasalocid concentration could be fatal",        
+          "Monensin: Feeding undiluted or mixing errors resulting in high concentrations of monensin has been fatal to cattle. Ingestion by cattle of monensin at levels of 600 milligrams per head per day and higher has been fatal.",        
+          "Aluminum: 1000 mg/kg",
+          "Arsenic: 30 mg/kg",
+          "Boron: 150 mg/kg",
+          "Bromine: 10 mg/kg",
+          "Cadmium: 1.5 mg/kg",
+          "Calcium": 1,
+          "Chromium soluble Cr+++: 3000 mg/kg",
+          "CrO: 25 mg/kg",
+          "Cobalt: 40 mg/kg",
+          "Copper: 40 mg/kg",
+          "Germanium: 50 mg/kg",
+          "Iodine: 500 mg/kg",
+          "Iron: 100 mg/kg",
+          "Lead: 25 mg/kg",
+          "Lithium: 0.6 mg/kg",
+          "Magnesium: error",
+          "Mercury organic: 2 mg/kg",
+          "Molybdenum: 5 mg/kg",
+          "Nickel: 100 mg/kg",
+          "Phosphorus: error 0.007",
+          "Potassium: error 0.02",
+          "Selenium: 5 mg/kg",
+          "Silicon: error 0.005",
+          "Sodium Chloride: 4.5 Growing ~ 3.0 lactating %",
+          "Strontium: 2000 mg/kg",
+          "Sulfur: 0.30 High Concentrate Diet ~ 0.50 High Forage Diet %",
+          "Tin: 100 mg/kg",
+          "Tungsten: 20 mg/kg",
+          "Vanadium: 50 mg/kg",
+          "Zinc: 500 mg/kg"
+      ]
+        
       },
       "templates": {
         "body": {
